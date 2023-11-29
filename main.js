@@ -1,1 +1,1 @@
-alert("Esta pagina contem imagens e direcionamentos para informações de batatas")
+alert("Esta pagina contem imagens e direcionamentos para informações de batatas");
